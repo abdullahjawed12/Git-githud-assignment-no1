@@ -1,0 +1,23 @@
+#fn{
+    margin-right: 100px ;
+}
+#add{
+    border: 1px solid black ;
+    border-radius: 2px;
+    
+}
+#sub{
+    border: 1px solid black ;
+    border-radius: 2px;
+    margin-left: 30px;
+}
+#mul{
+    border: 1px solid black ;
+    border-radius: 2px;
+    margin-left: 30px;
+}
+#div{
+    border: 1px solid black ;
+    border-radius: 2px;
+    margin-left: 30px;
+}
