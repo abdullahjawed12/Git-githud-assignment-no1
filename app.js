@@ -24,3 +24,4 @@ function div(){
     let result=parseFloat(Fn)/parseFloat(Sn)
     document.getElementById("output").innerHTML=result
 }
+
